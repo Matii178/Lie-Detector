@@ -52,6 +52,6 @@ After saving data as .csv file, one may use it with another software to analyse 
 Data is saved in this format:
 time, 1st plot data (top one), 2nd plot data (middle plot, blue color), 2nd plot data (middle plot, red color), 3th plot data (bottom one), marker ('1' if marked at that time).
 below is an example of aforementioned .csv file. in line 14720 you can see marked spot ('1' occurs in 6th column)
-![image](https://github.com/Matii178/Lie-Detector/assets/62108776/0b2a7aea-d990-440a-bb10-d9ca5b73cdaf)
+![image](https://github.com/Matii178/Lie-Detector/assets/62108776/aaed19fc-5c99-4c87-82ee-a3ca5555dc4f)
 
 
