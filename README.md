@@ -1,7 +1,12 @@
 # Lie Detector
 
+
+
 ### Lie Detector is a desktop GUI app written in Qt Creator. It was created to display real time data gathered by STM32F411RE microcontroller as a part of lie detector project. 
 Its specific design enables the user to search for connected via serial port devices, open port with given parameters and read/transmit data.
+
+![lie_detector](https://github.com/Matii178/Lie-Detector/assets/62108776/13fbfa8e-f7f9-4c70-ae9d-afd7db4e1994)
+
 
 ## First Window - Serial port connection menu
 ![mojGif](https://github.com/Matii178/Lie-Detector/assets/62108776/32e7e8ff-8498-410b-be59-e9d83711da38)
@@ -22,6 +27,9 @@ Almost every performed action is followed up by various notification displayed o
 After clicking the start button, main window opens up.
 
 ## Second Window - Real time data presentation
+
+![lie_det](https://github.com/Matii178/Lie-Detector/assets/62108776/10ddae6f-4f8b-49c9-a497-6a43f8058a10)
+
 At first it is completely empty.
 <img src= "https://github.com/Matii178/Lie-Detector/assets/62108776/a7a73d25-e766-430f-a49c-6ec478cc1812" width = "800" height = "400">
 
